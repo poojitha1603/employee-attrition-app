@@ -5,11 +5,18 @@ This is a **Machine Learning project** that predicts whether an employee is like
 The app is built using **Python**, **scikit-learn**, and **Gradio** for a simple web interface.
 
 
+
 ## 🔗 Try the Live App
 
 You can test the app online without installing anything:  
 [Open Employee Attrition App](https://huggingface.co/spaces/poojitha1603/employee_attrition_app)
 
+
+## 📝 Try the Notebook in Colab
+
+You can also explore the project step-by-step in Google Colab:  
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/poojitha1603/employee-attrition-app/blob/main/ML_code_for_employeeattriton.ipynb)
 
 
 ## 🛠️ Features Used in the App
@@ -17,11 +24,22 @@ You can test the app online without installing anything:
 - Age  
 - Monthly Income  
 - Years at Company  
-- OverTime (Yes/No)    
+- OverTime (Yes/No)  
 - Job Satisfaction  
 - Distance From Home  
 - Number of Companies Worked  
 - Environment Satisfaction  
+
+> The app uses a **Logistic Regression model** trained on employee data to make predictions.
+
+
+
+## 💻 How to Run Locally
+
+1. Clone this repository:
+`
+git clone https://github.com/poojitha1603/employee-attrition-app.git
+
 
 > The app uses a **Logistic Regression model** trained on employee data to make predictions.
 
